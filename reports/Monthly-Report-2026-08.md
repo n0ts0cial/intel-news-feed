@@ -7,9 +7,9 @@ This section provides a high-level overview of high-priority cybersecurity news 
 
 | Metric | Value |
 | :--- | :--- |
-| **Total News** | 90 |
+| **Total News** | 88 |
 | **The Hacker News** | 87 |
-| **BleepingComputer** | 3 |
+| **BleepingComputer** | 1 |
 | **Top Mentioned Indicators** | exploit, critical, malware |
 
 ## Security News Findings
@@ -25,15 +25,6 @@ The following selection covers the security news matching our monitoring criteri
 **Url:** [https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/](https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/)
 
 ---
-### Berlin confirms data theft after Rhysida ransomware attack claims
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-08-31 13:30:01Z
-
-**Introduction:** Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/](https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/)
-
----
 ### Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets
 
 *Source:* **The Hacker News** | *Published (UTC):* 2026-08-31 11:47:24Z
@@ -41,15 +32,6 @@ The following selection covers the security news matching our monitoring criteri
 **Introduction:** Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security. The two independent analyses are based on exposed infrastructure associated with the Russian-speaking cybercrime group, leading to the discovery of its...
 
 **Url:** [http://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html](http://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html)
-
----
-### Anthropic warns infostealer malware is hijacking Claude sessions to drain usage
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-08-30 14:30:25Z
-
-**Introduction:** Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/)
 
 ---
 ### Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE
