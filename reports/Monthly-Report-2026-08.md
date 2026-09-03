@@ -7,22 +7,13 @@ This section provides a high-level overview of high-priority cybersecurity news 
 
 | Metric | Value |
 | :--- | :--- |
-| **Total News** | 88 |
+| **Total News** | 87 |
 | **The Hacker News** | 87 |
-| **BleepingComputer** | 1 |
+| **BleepingComputer** | 0 |
 | **Top Mentioned Indicators** | exploit, critical, malware |
 
 ## Security News Findings
 The following selection covers the security news matching our monitoring criteria.
-
----
-### Cronos blockchain restarts after $74 million Tectonic exploit
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-08-31 20:47:54Z
-
-**Introduction:** The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/](https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/)
 
 ---
 ### Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets
