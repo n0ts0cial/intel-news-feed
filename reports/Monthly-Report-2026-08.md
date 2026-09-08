@@ -407,7 +407,7 @@ The following selection covers the security news matching our monitoring criteri
 
 *Source:* **The Hacker News** | *Published (UTC):* 2026-08-14 18:48:46Z
 
-**Introduction:** Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains to those that get a second chance, where an expired domain becomes available for registration and is then snapped up by another party. During the first half of 2026, 50,400...
+**Introduction:** Threat actors are acquiring expired domains to inherit their website traffic and reputation with an aim to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains to those that get a second chance, where an expired domain becomes available for registration and is then snapped up by another party. During the first half...
 
 **Url:** [http://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html](http://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html)
 
