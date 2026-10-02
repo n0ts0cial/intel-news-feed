@@ -7,9 +7,9 @@ This section provides a high-level overview of high-priority cybersecurity news 
 
 | Metric | Value |
 | :--- | :--- |
-| **Total News** | 118 |
+| **Total News** | 115 |
 | **The Hacker News** | 111 |
-| **BleepingComputer** | 7 |
+| **BleepingComputer** | 4 |
 | **Top Mentioned Indicators** | exploit, malware, critical |
 
 ## Security News Findings
@@ -79,15 +79,6 @@ The following selection covers the security news matching our monitoring criteri
 **Url:** [https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/)
 
 ---
-### Bitget hacked via zero-day in third-party security products
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-09-30 11:11:46Z
-
-**Introduction:** Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/](https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/)
-
----
 ### US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access
 
 *Source:* **The Hacker News** | *Published (UTC):* 2026-09-30 10:45:00Z
@@ -122,24 +113,6 @@ The following selection covers the security news matching our monitoring criteri
 **Introduction:** Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug in the Datagram Transport Layer Security (DTLS) protocol handling that's rooted in the NetScaler...
 
 **Url:** [http://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html](http://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html)
-
----
-### Custom ChatGPTs push ClickFix attacks to deploy RAT malware
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-09-29 20:59:39Z
-
-**Introduction:** Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/](https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/)
-
----
-### Hackers exploit Citrix NetScaler zero-day to deploy web shells
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-09-29 18:37:12Z
-
-**Introduction:** Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/](https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/)
 
 ---
 ### New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses
