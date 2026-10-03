@@ -7,31 +7,13 @@ This section provides a high-level overview of high-priority cybersecurity news 
 
 | Metric | Value |
 | :--- | :--- |
-| **Total News** | 115 |
+| **Total News** | 111 |
 | **The Hacker News** | 111 |
-| **BleepingComputer** | 4 |
+| **BleepingComputer** | 0 |
 | **Top Mentioned Indicators** | exploit, malware, critical |
 
 ## Security News Findings
 The following selection covers the security news matching our monitoring criteria.
-
----
-### Russian state hackers use new RedFlick technique to push malware
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-09-30 20:34:01Z
-
-**Introduction:** The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed "RedFlick" to deploy its signature CosmicPulse backdoor. [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/](https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/)
-
----
-### DIVD says Zammad zero-days enabled AI-driven network breach
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-09-30 19:49:15Z
-
-**Introduction:** The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/](https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/)
 
 ---
 ### Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets
@@ -52,15 +34,6 @@ The following selection covers the security news matching our monitoring criteri
 **Url:** [http://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html](http://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
 
 ---
-### CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-09-30 15:49:29Z
-
-**Introduction:** The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/)
-
----
 ### Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager
 
 *Source:* **The Hacker News** | *Published (UTC):* 2026-09-30 15:24:54Z
@@ -68,15 +41,6 @@ The following selection covers the security news matching our monitoring criteri
 **Introduction:** Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September 30. The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager's API as the admin user. Fixed releases are available, and there is no workaround. It carries a...
 
 **Url:** [http://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html](http://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)
-
----
-### Cisco warns of new SD-WAN zero-day exploited in attacks
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-09-30 14:46:40Z
-
-**Introduction:** Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/)
 
 ---
 ### US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access
