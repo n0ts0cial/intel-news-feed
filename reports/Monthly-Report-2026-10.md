@@ -7,9 +7,9 @@ This section provides a high-level overview of high-priority cybersecurity news 
 
 | Metric | Value |
 | :--- | :--- |
-| **Total News** | 113 |
+| **Total News** | 112 |
 | **The Hacker News** | 109 |
-| **BleepingComputer** | 4 |
+| **BleepingComputer** | 3 |
 | **Top Mentioned Indicators** | exploit, critical, malware |
 
 ## Security News Findings
@@ -41,15 +41,6 @@ The following selection covers the security news matching our monitoring criteri
 **Introduction:** Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]...
 
 **Url:** [https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
-
----
-### Drupal warns of critical Commerce Core flaw exploited in attacks
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-10-30 10:16:07Z
-
-**Introduction:** Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/](https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/)
 
 ---
 ### Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw
