@@ -7,9 +7,9 @@ This section provides a high-level overview of high-priority cybersecurity news 
 
 | Metric | Value |
 | :--- | :--- |
-| **Total News** | 112 |
+| **Total News** | 110 |
 | **The Hacker News** | 109 |
-| **BleepingComputer** | 3 |
+| **BleepingComputer** | 1 |
 | **Top Mentioned Indicators** | exploit, critical, malware |
 
 ## Security News Findings
@@ -23,24 +23,6 @@ The following selection covers the security news matching our monitoring criteri
 **Introduction:** A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]...
 
 **Url:** [https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)
-
----
-### Critical Linux kernel flaw allows remote root attacks on MPTCP servers
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-10-30 21:09:46Z
-
-**Introduction:** Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
-
----
-### CISA says max severity GitLab flaw now exploited in the wild
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-10-30 13:00:32Z
-
-**Introduction:** Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
 
 ---
 ### Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw
