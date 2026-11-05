@@ -7,22 +7,13 @@ This section provides a high-level overview of high-priority cybersecurity news 
 
 | Metric | Value |
 | :--- | :--- |
-| **Total News** | 110 |
+| **Total News** | 109 |
 | **The Hacker News** | 109 |
-| **BleepingComputer** | 1 |
+| **BleepingComputer** | 0 |
 | **Top Mentioned Indicators** | exploit, critical, malware |
 
 ## Security News Findings
 The following selection covers the security news matching our monitoring criteria.
-
----
-### New Android SMS of Death exploit can remotely crash unpatched phones
-
-*Source:* **BleepingComputer** | *Published (UTC):* 2026-10-31 15:35:11Z
-
-**Introduction:** A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]...
-
-**Url:** [https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)
 
 ---
 ### Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw
