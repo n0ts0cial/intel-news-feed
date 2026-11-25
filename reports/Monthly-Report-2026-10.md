@@ -20,7 +20,7 @@ The following selection covers the security news matching our monitoring criteri
 
 *Source:* **The Hacker News** | *Published (UTC):* 2026-10-30 07:45:30Z
 
-**Introduction:** Drupal has warned that threat actors are exploiting a "highly critical" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13. "This module enables you to sell goods and services to customers through an included shopping cart...
+**Introduction:** Drupal has warned that threat actors are exploiting a "highly critical" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: 6.5), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13. "This module enables you to sell goods and services to customers through an included shopping cart...
 
 **Url:** [http://thehackernews.com/2026/10/hackers-actively-exploit-highly.html](http://thehackernews.com/2026/10/hackers-actively-exploit-highly.html)
 
